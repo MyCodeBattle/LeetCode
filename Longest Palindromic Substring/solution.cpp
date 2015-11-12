@@ -1,3 +1,8 @@
+/*
+ *  O(n^2)被卡，只能用马拉车。有几个人能在面试的时候完整地写下来？
+ */
+   
+
 class Solution {
 public:
     string str, ans;
