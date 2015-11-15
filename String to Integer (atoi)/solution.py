@@ -18,4 +18,3 @@ class Solution(object):
             pos += 1
         return max(-2**31, min(2**31 - 1, sign * ret))
 
-a = Solution()
