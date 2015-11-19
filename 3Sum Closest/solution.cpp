@@ -6,7 +6,7 @@ class Solution {
 public:
     int threeSumClosest(vector<int>& nums, int target) {
         sort(nums.begin(), nums.end());
-        int ret, ans;
+        int ret, ans = (1ll<<31) - 1;
         for (int i = 0; i < nums.size(); i++) {
             int tar = target - nums[i];
             int l = i + 1, r = nums.size() - 1;
