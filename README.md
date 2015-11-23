@@ -19,7 +19,7 @@
 |√  | 007  |Reverse Integer| C++ Java Python |
 |√  | 006  |	ZigZag Conversion | C++ Java Python |
 |√  | 005  |Longest Palindromic Substring | C++ Java Python |
-|√  | 004  |Median of Two Sorted Arrays | C++ Java Python |
+|√  | 004  |Median of Two Sorted Arrays | C++  |
 |√  | 003  |Longest Substring Without Repeating Characters | C++ Java Python |
 |√  | 002  |Add Two Numbers | C++ Java Python |
 |√  | 001  |Two Sum | C++ Java Python |
