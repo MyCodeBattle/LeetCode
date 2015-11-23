@@ -10,10 +10,10 @@
 |√  | 016  |3Sum Closest | C++ Java Python |
 |√  | 015  |3Sum | C++ Java Python |
 |√  | 014  |Longest Common Prefix | C++ Java Python |
-|√  | 013  |Roman to Integer | C++ Java Python |
-|√  | 012  |Integer to Roman | C++ Java Python |
+|  | 013  |Roman to Integer | C++ Java Python |
+|  | 012  |Integer to Roman | C++ Java Python |
 |√  | 011  |Container With Most Water | C++ Java Python |
-|√  | 010  |Regular Expression Matching | C++ Java Python |
+|  | 010  |Regular Expression Matching | C++ Java Python |
 |√  | 009  |Palindrome Number | C++ Java Python |
 |√  | 008  |String to Integer (atoi) | C++ Java Python |
 |√  | 007  |Reverse Integer| C++ Java Python |
