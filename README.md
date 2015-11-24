@@ -2,6 +2,7 @@
 
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
+|√ |  022 |  Generate Parentheses| C++ Java Python|
 | √ |   021 |   Merge Two Sorted Lists | C++ Java Python|
 | √ |   020 |  Valid Parentheses | C++ Java Python |
 |√  | 019  |Remove Nth Node From End of List | C++ Java Python |
