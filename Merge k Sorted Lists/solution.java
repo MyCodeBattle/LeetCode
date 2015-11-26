@@ -9,7 +9,8 @@
 public class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         PriorityQueue<ListNode> Q = new PriorityQueue<ListNode>(lists.length, new Comparator<ListNode>() {
-            @Override public int compare(ListNode a, ListNode b) {
+            @Override
+            public int compare(ListNode a, ListNode b) {
                 return a.val - b.val;
             }
         });

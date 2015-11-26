@@ -19,7 +19,7 @@ class Solution(object):
             v, n = Q[0]
             heappop(Q)
             ret.next = n
-            if n.next is None:
+            if n.next:
                 heappush(Q, (n.next.val, n.next))
             ret = ret.next
         return head.next
