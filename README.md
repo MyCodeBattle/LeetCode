@@ -2,6 +2,7 @@
 
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
+|√| |025 | Reverse Nodes in k-Group| C++ Java Python|
 |√ |  024 | Swap Nodes in Pairs | C++ Java Python |
 |√ | 023 | Merge k Sorted Lists | C++ Java Python |
 |√ |  022 |  Generate Parentheses| C++ Java Python|
