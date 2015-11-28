@@ -2,6 +2,8 @@
 
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
+|√| 028 | Implement strStr()| C++ Java Python|
+|√| 027 | Remove Element| C++ Java Python|
 |√| 026 | Remove Duplicates from Sorted Array| C++ Java Python|
 |√| |025 | Reverse Nodes in k-Group| C++ Java Python|
 |√ |  024 | Swap Nodes in Pairs | C++ Java Python |
