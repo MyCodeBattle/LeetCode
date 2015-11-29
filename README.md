@@ -2,6 +2,7 @@
 
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
+|√| 029| Divide Two Integers | C++ Java Python|
 |√| 028 | Implement strStr()| C++ Java Python|
 |√| 027 | Remove Element| C++ Java Python|
 |√| 026 | Remove Duplicates from Sorted Array| C++ Java Python|
