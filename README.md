@@ -1,7 +1,10 @@
 ##每日LeetCode
 
+每题的简要题解都在C++的代码里。
+
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
+|√| 030 | Substring with Concatenation of All Words| C++ Java Python|
 |√| 029| Divide Two Integers | C++ Java Python|
 |√| 028 | Implement strStr()| C++ Java Python|
 |√| 027 | Remove Element| C++ Java Python|
