@@ -4,12 +4,13 @@
 
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
+|**×**| **031** | **Next Permutation** | **C++** |
 |√| 030 | Substring with Concatenation of All Words| C++ Java Python|
 |√| 029| Divide Two Integers | C++ Java Python|
 |√| 028 | Implement strStr()| C++ Java Python|
 |√| 027 | Remove Element| C++ Java Python|
 |√| 026 | Remove Duplicates from Sorted Array| C++ Java Python|
-|√| |025 | Reverse Nodes in k-Group| C++ Java Python|
+|√| 025 | Reverse Nodes in kGroup| C++ Java Python|
 |√ |  024 | Swap Nodes in Pairs | C++ Java Python |
 |√ | 023 | Merge k Sorted Lists | C++ Java Python |
 |√ |  022 |  Generate Parentheses| C++ Java Python|
