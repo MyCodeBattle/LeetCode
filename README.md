@@ -4,6 +4,7 @@
 
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
+|**√**|**032** | **Longest Valid Parentheses**| **C++ Java Python**|
 |**×**| **031** | **Next Permutation** | **C++** |
 |√| 030 | Substring with Concatenation of All Words| C++ Java Python|
 |√| 029| Divide Two Integers | C++ Java Python|
