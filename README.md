@@ -4,6 +4,7 @@
 
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
+|**√**|**033**|**Search in Rotated Sorted Array**|**C++ Java Python**|
 |**√**|**032** | **Longest Valid Parentheses**| **C++ Java Python**|
 |**×**| **031** | **Next Permutation** | **C++** |
 |√| 030 | Substring with Concatenation of All Words| C++ Java Python|
