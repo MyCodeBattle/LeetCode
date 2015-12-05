@@ -4,6 +4,7 @@
 
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
+|√|035|Search Insert Position|C++|
 |√|034|Search for a Range|C++ Java Python|
 |**√**|**033**|**Search in Rotated Sorted Array**|**C++ Java Python**|
 |**√**|**032** | **Longest Valid Parentheses**| **C++ Java Python**|
