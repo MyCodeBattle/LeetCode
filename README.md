@@ -4,6 +4,7 @@
 
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
+|√| 038 | Count and Say | C++ Java Python|
 |√| 037 | Sudoku Solver | C++ Java Python|
 |√| 036 | Valid Sudoku | C++ Java Python |
 |√|035|Search Insert Position|C++|
