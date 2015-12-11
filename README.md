@@ -4,6 +4,7 @@
 
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
+|√| 040 |Combination Sum II | C++ |
 |√| 039 | Combination Sum | C++ Java Python|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
 |√| 041 | First Missing Positive | C++ Java Python|
