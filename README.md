@@ -4,10 +4,11 @@
 
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
+|√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| **042** | **Trapping Rain Water** | **C++**|
+|√| 041 | First Missing Positive | C++ Java Python|
 |√| 040 |Combination Sum II | C++ |
 |√| 039 | Combination Sum | C++ Java Python|
-|√| **316**| **Remove Duplicate Letters** | **C++**|
-|√| 041 | First Missing Positive | C++ Java Python|
 |√| 038 | Count and Say | C++ Java Python|
 |√| 037 | Sudoku Solver | C++ Java Python|
 |√| 036 | Valid Sudoku | C++ Java Python |
