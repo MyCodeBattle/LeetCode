@@ -1,3 +1,7 @@
+/*
+ * 参考了讨论区里的一个优美写法。
+ */
+
 class Solution {
 public:
     string multiply(string num1, string num2) {
