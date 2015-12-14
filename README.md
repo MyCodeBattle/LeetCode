@@ -5,6 +5,8 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√|044| Jump Game II | C++ Java Python|
+|√|**043** | **Multiply Strings** | **C++**
 |√| **042** | **Trapping Rain Water** | **C++**|
 |√| 041 | First Missing Positive | C++ Java Python|
 |√| 040 |Combination Sum II | C++ |
