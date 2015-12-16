@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 049 | Group Anagrams | C++ Java Python|
 |√|**048**| **Rotate Image** | **C++** |
 |√|045| Jump Game II | C++ Java Python|
 |×| 044 | Wildcard Matching | |
