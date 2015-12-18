@@ -12,7 +12,6 @@ public:
             ans.push_back(mp);
             return;
         }
-            
         for (int i = 0; i < n; i++) {
             if ((v1 & (1 << i)) || (v2 & (1 << (cur_row + i))) || (v3 & (1 << (cur_row - i + n - 1))))
                 continue;
