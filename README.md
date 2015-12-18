@@ -6,7 +6,7 @@
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
 |√| 052 | N-Queens II| C++|
-|√| 051 | N-Queens | C++ Java |
+|√| 051 | N-Queens | C++ Java Python|
 |√| 050 | Pow(x, n) | C++|
 |√| 049 | Group Anagrams | C++ Java Python|
 |√|**048**| **Rotate Image** | **C++** |
