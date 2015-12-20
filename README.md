@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 053 | Maximum Subarray | C++|
 |√| 052 | N-Queens II| C++|
 |√| 051 | N-Queens | C++ Java Python|
 |√| 050 | Pow(x, n) | C++|
