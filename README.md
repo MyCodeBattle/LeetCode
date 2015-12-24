@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 056 | Merge Intervals | C++ |
 |√| 055 | Jump Game | C++ |
 |√| 054 | Spiral Matrix | C++ |
 |√| 053 | Maximum Subarray | C++|
