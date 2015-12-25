@@ -5,6 +5,8 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 058 | Length of Last Word | C++ |
+|√| 057 | Insert Interval | C++ |
 |√| 056 | Merge Intervals | C++ |
 |√| 055 | Jump Game | C++ |
 |√| 054 | Spiral Matrix | C++ |
