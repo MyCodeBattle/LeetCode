@@ -5,6 +5,8 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 063 | Unique Paths II | C++ |
+|√| 062 | Unique Paths | C++ |
 |√| 061 | Rotate List | C++ |
 |√| 060 | Permutation Sequence | C++ |
 |√| 059 | Spiral Matrix II | C++ 
