@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 064 | Minimum Path Sum | C++ |
 |√| 063 | Unique Paths II | C++ |
 |√| 062 | Unique Paths | C++ |
 |√| 061 | Rotate List | C++ |
