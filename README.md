@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 068 | Text Justification | C++ |
 |√| 067 | Add Binary | C++ Java|
 |√| 066 | Plus One | C++ |
 |√| 065 | Valid Number | C++ |
