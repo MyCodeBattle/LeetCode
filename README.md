@@ -5,7 +5,8 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
-|√} 069 | Sqrt(x) | C++ |
+|√| 070 | Climbing Stairs | C++ |
+|√| 069 | Sqrt(x) | C++ |
 |√| 068 | Text Justification | C++ |
 |√| 067 | Add Binary | C++ Java|
 |√| 066 | Plus One | C++ |
