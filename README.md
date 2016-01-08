@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 071 | Simplify Path | C++ Java|
 |√| 070 | Climbing Stairs | C++ |
 |√| 069 | Sqrt(x) | C++ |
 |√| 068 | Text Justification | C++ |
