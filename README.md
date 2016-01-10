@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 073 | Set Matrix Zeroes | C++ |
 |√| **072** | **Edit Distance** | **C++** |
 |√| 071 | Simplify Path | C++ Java|
 |√| 070 | Climbing Stairs | C++ |
