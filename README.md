@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 079 | Word Search |  C++ |
 |√| 078 | Subsets | C++|
 |√| 077 | Combinations | C++ |
 |√| 076 | Minimum Window Substring | C++ |
