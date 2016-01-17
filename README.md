@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 080 | Remove Duplicates from Sorted Array II | C++ |
 |√| 079 | Word Search |  C++ |
 |√| 078 | Subsets | C++|
 |√| 077 | Combinations | C++ |
