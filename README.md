@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 084 | Largest Rectangle in Histogram | C++|
 |√| 083 | Remove Duplicates from Sorted List | C++ |
 |√| 082 | Remove Duplicates from Sorted List II | C++ |
 |**√**| **081** |**Search in Rotated Sorted Array II** | **C++** |
