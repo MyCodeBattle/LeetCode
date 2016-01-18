@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|**√**| **086** | **Partition List** | **Java** |
 |√| 085 |Maximal Rectangle　| C++ |
 |√| 084 | Largest Rectangle in Histogram | C++|
 |√| 083 | Remove Duplicates from Sorted List | C++ |
