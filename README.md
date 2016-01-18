@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 088 | Merge Sorted Array | Java |
 |**√**| **087** | **Scramble String** | **Java** |
 |**√**| **086** | **Partition List** | **Java** |
 |√| 085 |Maximal Rectangle　| C++ |
