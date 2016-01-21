@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| **099**| **Recover Binary Search Tree** | **Java**
 |√| 098 | Validate Binary Search Tree | Java |
 |√| 097 | Interleaving String | Java |
 |√| **096** | **Unique Binary Search Trees** | **Java** |
