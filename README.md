@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 107 | Convert Sorted Array to Binary Search Tree | Java |
 |√| 106 | Construct Binary Tree from Inorder and Postorder Traversal | Java |
 |√| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Java |
 |√| 104 | Maximum Depth of Binary Tree | Java |
