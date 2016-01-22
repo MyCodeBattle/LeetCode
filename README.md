@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Java |
 |√| 104 | Maximum Depth of Binary Tree | Java |
 |√| 103 | Binary Tree Zigzag Level Order Traversal | Java |
 |√| 102 | inary Tree Level Order Traversal | Java |
