@@ -5,8 +5,10 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
-|√| 108 | Convert Sorted List to Binary Search Tree | Java |
-|√| 107 | Convert Sorted Array to Binary Search Tree | Java |
+|√| 110 | Balanced Binary Tree | Java |
+|√| 109 | Convert Sorted List to Binary Search Tree | Java |
+|√| 108 | Convert Sorted Array to Binary Search Tree | Java |
+|√| 107 | Binary Tree Level Order Traversal II | Java|
 |√| 106 | Construct Binary Tree from Inorder and Postorder Traversal | Java |
 |√| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Java |
 |√| 104 | Maximum Depth of Binary Tree | Java |
