@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 111 | Minimum Depth of Binary Tree | Java |
 |√| 110 | Balanced Binary Tree | Java |
 |√| 109 | Convert Sorted List to Binary Search Tree | Java |
 |√| 108 | Convert Sorted Array to Binary Search Tree | Java |
