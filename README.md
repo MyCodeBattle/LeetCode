@@ -5,6 +5,8 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 115 | Distinct Subsequences | Java |
+|√| 114 | Flatten Binary Tree to Linked List | Java |
 |√| 113 | Path Sum II | Java |
 |√| 112 | Path Sum | Java |
 |√| 111 | Minimum Depth of Binary Tree | Java |
