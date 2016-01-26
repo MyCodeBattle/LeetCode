@@ -5,6 +5,8 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 118 | Pascal's Triangle | Java |
+|√| **117** | **Populating Next Right Pointers in Each Node II** | **Java** |
 |√| **116** | **Populating Next Right Pointers in Each Node** | **Java**|
 |√| 115 | Distinct Subsequences | Java |
 |√| 114 | Flatten Binary Tree to Linked List | Java |
