@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| **116** | **Populating Next Right Pointers in Each Node** | **Java**|
 |√| 115 | Distinct Subsequences | Java |
 |√| 114 | Flatten Binary Tree to Linked List | Java |
 |√| 113 | Path Sum II | Java |
