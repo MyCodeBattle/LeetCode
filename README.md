@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 121 | Best Time to Buy and Sell Stock | Java |
 |√| 120 | Triangle | Java |
 |√| 119 | Pascal's Triangle II | Java |
 |√| 118 | Pascal's Triangle | Java |
