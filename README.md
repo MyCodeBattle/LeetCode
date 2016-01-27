@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 119 | Pascal's Triangle II | Java |
 |√| 118 | Pascal's Triangle | Java |
 |√| **117** | **Populating Next Right Pointers in Each Node II** | **Java** |
 |√| **116** | **Populating Next Right Pointers in Each Node** | **Java**|
@@ -24,7 +25,7 @@
 |√| 102 | inary Tree Level Order Traversal | Java |
 |√| 101 | Symmetric Tree | Java |
 |√| 100 | Same Tree | Java |
-|√| **099**| **Recover Binary Search Tree** | **Java**
+|√| **099**| **Recover Binary Search Tree** | **Java**|
 |√| 098 | Validate Binary Search Tree | Java |
 |√| 097 | Interleaving String | Java |
 |√| **096** | **Unique Binary Search Trees** | **Java** |
