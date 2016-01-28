@@ -5,6 +5,8 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|×| 126 | Word Ladder | |
+|√| 125 | Valid Palindrome | Java |
 |√| **124** | **Binary Tree Maximum Path Sum** | **Java**|
 |√| **123** | **Best Time to Buy and Sell Stock III** | **Java** |
 |√| 122 | Best Time to Buy and Sell Stock II | Java |
