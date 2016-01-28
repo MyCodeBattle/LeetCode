@@ -5,7 +5,10 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
-|×| 126 | Word Ladder | |
+|√| 129 | Surrounded Regions | Java |
+|√| 128 | Sum Root to Leaf Numbers | Java |
+|x| 127 | Word Ladder | |
+|×| 126 | Word Ladder II | |
 |√| 125 | Valid Palindrome | Java |
 |√| **124** | **Binary Tree Maximum Path Sum** | **Java**|
 |√| **123** | **Best Time to Buy and Sell Stock III** | **Java** |
