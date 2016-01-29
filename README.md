@@ -5,9 +5,10 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
-|√| 130 | Palindrome Partitioning | Java |
-|√| 129 | Surrounded Regions | Java |
-|√| 128 | Sum Root to Leaf Numbers | Java |
+|√| 132 | Palindrome Partitioning II | Java |
+|√| 131 | Palindrome Partitioning | Java |
+|√| 130 | Surrounded Regions | Java |
+|√| 129 | Sum Root to Leaf Numbers | Java |
 |√| 128 | Longest Consecutive Sequence | Java |
 |x| 127 | Word Ladder | |
 |×| 126 | Word Ladder II | |
