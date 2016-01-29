@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| **133** | **Gas Station** | **Java** |
 |√| 132 | Palindrome Partitioning II | Java |
 |√| 131 | Palindrome Partitioning | Java |
 |√| 130 | Surrounded Regions | Java |
