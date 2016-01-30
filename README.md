@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 139 | Word Break | Java |
 |√| 138 | Copy List with Random Pointer | Java |
 |x| 137 | Single Number II | |
 |√| 136 | Single Number | Java |
