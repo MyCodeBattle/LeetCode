@@ -5,6 +5,8 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 138 | Copy List with Random Pointer | Java |
+|x| 137 | Single Number II | |
 |√| 136 | Single Number | Java |
 |√| 135 | Candy | Java |
 |√| **134** | **Gas Station** | **Java** |
