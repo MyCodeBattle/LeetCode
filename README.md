@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 141 | Linked List Cycle | Java |
 |√| 140 | Word Break II | Java |
 |√| 139 | Word Break | Java |
 |√| 138 | Copy List with Random Pointer | Java |
