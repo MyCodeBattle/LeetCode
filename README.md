@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 143 | Reorder List | Java |
 |√| 142 | Linked List Cycle II | Java |
 |√| 141 | Linked List Cycle | Java |
 |√| 140 | Word Break II | Java |
