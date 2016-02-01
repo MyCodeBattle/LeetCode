@@ -5,8 +5,12 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
-|√| 146 | Insertion Sort List | Java |
-|√| 145 | LRU Cache | Java |
+|√| 150 | Evaluate Reverse Polish Notation | Java |
+|√| 149 | Max Points on a Line | Java |
+|x| 148 | Sort List | Java |
+|√| 147 | Insertion Sort List | Java |
+|√| 146 | LRU Cache | Java |
+|√| 145 | Binary Tree Postorder Traversal | Java |
 |√| 144 |Binary Tree Preorder Traversal | Java |
 |√| 143 | Reorder List | Java |
 |√| 142 | Linked List Cycle II | Java |
