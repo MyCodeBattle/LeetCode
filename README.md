@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 145 | LRU Cache | Java |
 |√| 144 |Binary Tree Preorder Traversal | Java |
 |√| 143 | Reorder List | Java |
 |√| 142 | Linked List Cycle II | Java |
