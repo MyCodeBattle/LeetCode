@@ -1,3 +1,7 @@
+/*
+ * 直接分割。如果是C/C++可以原地reverse每个单词，然后全部reverse一遍。这样是O(1)空间。
+ */
+
 import java.util.StringTokenizer;
 
 public class Solution {
