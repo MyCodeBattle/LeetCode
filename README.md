@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 152 | Maximum Product Subarray | Java |
 |√| 151 | Reverse Words in a String | Java |
 |√| 150 | Evaluate Reverse Polish Notation | Java |
 |√| 149 | Max Points on a Line | Java |
