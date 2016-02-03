@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 156 | Intersection of Two Linked Lists | Java |
 |√| 155 |Min Stack | Java |
 |√| 154 | Find Minimum in Rotated Sorted Array II | Java |
 |√| 153 | Find Minimum in Rotated Sorted Array | Java |
