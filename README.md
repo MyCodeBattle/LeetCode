@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| **164** | **Maximum Gap** | **Java** |
 |√| **162** | **Find Peak Element** | **Java** |
 |√| 160 | Intersection of Two Linked Lists | Java |
 |√| 155 |Min Stack | Java |
