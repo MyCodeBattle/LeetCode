@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 171 | Excel Sheet Column Number | Java |
 |√| 169 | Majority Element | Java |
 |√| 168 | Excel Sheet Column Title | Java |
 |√| 166 | Fraction to Recurring Decimal | Java |
