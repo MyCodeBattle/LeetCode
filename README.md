@@ -5,7 +5,8 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
-|√| 175 | Largest Number | Java |
+|√| 187 | Repeated DNA Sequences | Java |
+|√| 179 | Largest Number | Java |
 |√| **174** | **Dungeon Game** | **Java**|
 |√| 173 | Binary Search Tree Iterator | Java |
 |√| 172 | Factorial Trailing Zeroes | Java |
