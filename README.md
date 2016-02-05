@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| **174** | **Dungeon Game** | **Java**|
 |√| 173 | Binary Search Tree Iterator | Java |
 |√| 172 | Factorial Trailing Zeroes | Java |
 |√| 171 | Excel Sheet Column Number | Java |
