@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 191 | Number of 1 Bits | Java |
 |√| 190 | Reverse Bits | Java |
 |√| 189 | Rotate Array | Java |
 |√| 188 | Best Time to Buy and Sell Stock IV | Java |
