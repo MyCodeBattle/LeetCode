@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 201 | Bitwise AND of Numbers Range | Java |
 |√| 200 | Number of Islands | Java |
 |√| 199 | Binary Tree Right Side View | Java |
 |√| 198 | House Robber | Java |
