@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 205 | Isomorphic Strings | Java |
 |√| 204 | Count Primes | Java |
 |√| 203 | Remove Linked List Elements | Java |
 |√| 202 | Happy Number | Java |
