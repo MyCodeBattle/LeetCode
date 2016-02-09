@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 209 | Minimum Size Subarray Sum | Java |
 |√| 208 | Implement Trie (Prefix Tree) | Java |
 |√| 207 | Course Schedule | Java |
 |√| 206 | Reverse Linked List | Java |

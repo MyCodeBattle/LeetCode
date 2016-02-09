@@ -1,34 +1,25 @@
 /*
- * 随便搞一下。
+ * two pointers，每次尽量往右扩展，直到 >= sum，然后缩小到 < sum，然后继续扩展。O(n)。
+ * O(nlogn)的可以二分长度然后检查。
  */
 
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
- */
 public class Solution {
-
-    int dfs(TreeNode root) {
-        if (root == null)
+    public int minSubArrayLen(int s, int[] nums) {
+        if (nums.length == 0)
             return 0;
-        int ret = 0;
-        if (root.left != null)
-            ret = dfs(root.left);
-        if (root.right != null) {
-            if (ret == 0)
-                ret = dfs(root.right);
-            else 
-                ret = Math.min(ret, dfs(root.right));
-        }
-        return ret + 1;
-    }
+        int l = 0, r = 0;
 
-    public int minDepth(TreeNode root) {
-        return dfs(root);
+        int ans = Integer.MAX_VALUE, currentSum = 0;
+        while (r < nums.length) {
+            while (r < nums.length && currentSum < s)
+                currentSum += nums[r++];
+            if (currentSum < s)
+                break;
+            while (currentSum >= s) 
+                currentSum -= nums[l++];
+            ans = Math.min(ans, r - l + 1);
+        }
+        return ans == Integer.MAX_VALUE ? 0 : ans;
     }
 }
+
