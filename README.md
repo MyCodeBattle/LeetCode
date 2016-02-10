@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| **215** | **Kth Largest Element in an Array** | **Java** |
 |√| 214 | Shortest Palindrome | Java |
 |√| 213 | House Robber II | Java |
 |√| 210 | Course Schedule II | Java |
