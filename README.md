@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 221 | Maximal Square | Java |
 |√| **220** | **Contains Duplicate III** | **Java** |
 |√| 219 |　Contains Duplicate II | Java |
 |√| 218 | The Skyline Problem | Java |
