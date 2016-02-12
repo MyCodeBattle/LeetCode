@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 226 | Invert Binary Tree | Java |
 |√| 225 | Implement Stack using Queues | Java |
 |√| 224 | Basic Calculator | Java |
 |√| 223 | Rectangle Area | Java |
