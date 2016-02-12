@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 228 | Summary Ranges | Java |
 |√| 227 | Basic Calculator II | Java |
 |√| 226 | Invert Binary Tree | Java |
 |√| 225 | Implement Stack using Queues | Java |
