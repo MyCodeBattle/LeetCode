@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 224 | Basic Calculator | Java |
 |√| 223 | Rectangle Area | Java |
 |√| 222 | Count Complete Tree Nodes | Java |
 |√| 221 | Maximal Square | Java |
