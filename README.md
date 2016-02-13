@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 230 | Kth Smallest Element in a BST | Java |
 |√| 229 | Majority Element II | Java |
 |√| 228 | Summary Ranges | Java |
 |√| 227 | Basic Calculator II | Java |
