@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 236 |Lowest Common Ancestor of a Binary Tree　｜　Java |
 |√| 235 | Lowest Common Ancestor of a Binary Search Tree | Java |
 |√| 234 | Palindrome Linked List | Java |
 |√| 233 | Number of Digit One | Java |
