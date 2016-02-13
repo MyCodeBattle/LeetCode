@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 234 | Palindrome Linked List | Java |
 |√| 233 | Number of Digit One | Java |
 |√| 232 | Implement Queue using Stacks | Java |
 |√| 231 | Power of Two | Java |
