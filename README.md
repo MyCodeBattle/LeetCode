@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| **240** | **Search a 2D Matrix II** | **Java** |
 |√| 239 | Sliding Window Maximum | Java |
 |√| 238 |Product of Array Except Self　| Java |
 |√| 237 |Delete Node in a Linked List | Java |
