@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√|251 | Binary Tree Paths | Java |
 |√| 250 | Valid Anagram | Java |
 |√| 249 | Different Ways to Add Parentheses | Java |
 |√| **240** | **Search a 2D Matrix II** | **Java** |
