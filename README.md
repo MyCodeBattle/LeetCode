@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 284 | Peeking Iterator | Java |
 |√| 283 | Move Zeroes | Java |
 |×| 280 | 	Expression Add Operators | |
 |√| 279 | Perfect Squares | Java |
