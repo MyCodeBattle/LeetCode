@@ -5,6 +5,8 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 283 | Move Zeroes | Java |
+|×| 280 | 	Expression Add Operators | |
 |√| 279 | Perfect Squares | Java |
 |√| 278 | First Bad Version | Java |
 |√| 275 | H-Index II | Java |
