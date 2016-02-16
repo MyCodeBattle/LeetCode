@@ -5,6 +5,8 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 273 | Integer to English Words | Java |
+|√| 268 | Missing Number | Java |
 |√| 263 | Ugly Number | Java |
 |√| 260 | Single Number III | Java |
 |√| 258 | Add Digits | Java |
