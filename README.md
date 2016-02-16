@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 279 | Perfect Squares | Java |
 |√| 278 | First Bad Version | Java |
 |√| 275 | H-Index II | Java |
 |√| 274 | H-Index | Java |
