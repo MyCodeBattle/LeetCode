@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 275 | H-Index II | Java |
 |√| 274 | H-Index | Java |
 |√| 273 | Integer to English Words | Java |
 |√| 268 | Missing Number | Java |
