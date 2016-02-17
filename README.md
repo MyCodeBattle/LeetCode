@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 290 | Word Pattern | Java |
 |√| 289 | Game of Life | Java |
 |√| **287** | **Find the Duplicate Number** | **Java** |
 |√| 284 | Peeking Iterator | Java |
