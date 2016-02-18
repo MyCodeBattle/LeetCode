@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 302 | Range Sum Query - Immutable | Java |
 |√| 301 | Remove Invalid Parentheses | Java |
 |√| 300 | Longest Increasing Subsequence | Java |
 |√| 299 | Bulls and Cows | Java |
