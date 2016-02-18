@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 301 | Remove Invalid Parentheses | Java |
 |√| 300 | Longest Increasing Subsequence | Java |
 |√| 299 | Bulls and Cows | Java |
 |√| 297 | Serialize and Deserialize Binary Tree | Java |
