@@ -5,7 +5,8 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
-|√| 298 | Serialize and Deserialize Binary Tree | Java |
+|√| 299 | Bulls and Cows | Java |
+|√| 297 | Serialize and Deserialize Binary Tree | Java |
 |√| 295 | Find Median from Data Stream | Java |
 |√| 292 |Nim Game | Java |
 |√| 290 | Word Pattern | Java |
