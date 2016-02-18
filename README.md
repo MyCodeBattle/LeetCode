@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 295 | Find Median from Data Stream | Java |
 |√| 292 |Nim Game | Java |
 |√| 290 | Word Pattern | Java |
 |√| 289 | Game of Life | Java |
