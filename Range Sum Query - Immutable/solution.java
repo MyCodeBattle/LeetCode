@@ -1,3 +1,7 @@
+/*
+ * 前缀和。
+ */
+
 public class NumArray {
     int[] sum;
 
