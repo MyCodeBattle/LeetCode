@@ -6,6 +6,8 @@
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
 |√| 318 | Maximum Product of Word Lengths | Java |
+|√| **310** | **Minimum Height Trees** | **Java** |
+|√| **309** | **Best Time to Buy and Sell Stock with Cooldown** | **Java** |
 |√| 307 | Range Sum Query - Mutable | Java |
 |√| 306 | Additive Number | Java |
 |√| 304 | Range Sum Query 2D - Immutable | Java |
