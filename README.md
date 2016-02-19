@@ -6,6 +6,7 @@
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
 |√| 318 | Maximum Product of Word Lengths | Java |
+|√| 307 | Range Sum Query - Mutable | Java |
 |√| 306 | Additive Number | Java |
 |√| 304 | Range Sum Query 2D - Immutable | Java |
 |√| 303 | Range Sum Query - Immutable | Java |
