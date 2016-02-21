@@ -5,7 +5,8 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
-|√| 321 | Create Maximum Number | Java |
+|√| 322 | Coin Change | Java |
+|√| **321** | **Create Maximum Number** | **Java** |
 |√| 319 | Bulb Switcher | Java |
 |√| 318 | Maximum Product of Word Lengths | Java |
 |√| 313 | Super Ugly Number | Java |
