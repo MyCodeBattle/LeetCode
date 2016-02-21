@@ -5,6 +5,7 @@
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 319 | Bulb Switcher | Java |
 |√| 318 | Maximum Product of Word Lengths | Java |
 |√| 313 | Super Ugly Number | Java |
 |√| **312** | **Burst Balloons** | **Java** |
