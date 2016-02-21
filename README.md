@@ -6,6 +6,7 @@
 |------|-----|---|---|
 |√| **316**| **Remove Duplicate Letters** | **C++**|
 |√| 318 | Maximum Product of Word Lengths | Java |
+|√| 313 | Super Ugly Number | Java |
 |√| **312** | **Burst Balloons** | **Java** |
 |√| **310** | **Minimum Height Trees** | **Java** |
 |√| **309** | **Best Time to Buy and Sell Stock with Cooldown** | **Java** |
