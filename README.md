@@ -4,12 +4,13 @@
 
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
-|√| **316**| **Remove Duplicate Letters** | **C++**|
+|√| 326 | Power of Three | Java |
 |√| 324 | Wiggle Sort II | Java |
 |√| 322 | Coin Change | Java |
 |√| **321** | **Create Maximum Number** | **Java** |
 |√| 319 | Bulb Switcher | Java |
 |√| 318 | Maximum Product of Word Lengths | Java |
+|√| **316**| **Remove Duplicate Letters** | **C++**|
 |√| 313 | Super Ugly Number | Java |
 |√| **312** | **Burst Balloons** | **Java** |
 |√| **310** | **Minimum Height Trees** | **Java** |
