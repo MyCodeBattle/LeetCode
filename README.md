@@ -4,6 +4,7 @@
 
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
+|√| 329 | Longest Increasing Path in a Matrix | Java |
 |√| 328 | Odd Even Linked List | Java |
 |×| 327 | Count of Range Sum | |
 |√| 326 | Power of Three | Java |
