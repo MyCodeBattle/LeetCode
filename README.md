@@ -4,6 +4,7 @@
 
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
+|√| 334 | Increasing Triplet Subsequence | Java |
 |√| 332 | Reconstruct Itinerary | Java |
 |√| 331 | Verify Preorder Serialization of a Binary Tree | Java |
 |√| **330** | **Patching Array** | **Java**|
