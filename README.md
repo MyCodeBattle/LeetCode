@@ -4,6 +4,7 @@
 
 | 情况 |  题号  |  标题  |  语言  |
 |------|-----|---|---|
+|√| 332 | Reconstruct Itinerary | Java |
 |√| 331 | Verify Preorder Serialization of a Binary Tree | Java |
 |√| **330** | **Patching Array** | **Java**|
 |√| 329 | Longest Increasing Path in a Matrix | Java |
