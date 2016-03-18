@@ -1,0 +1,35 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+public class Solution {
+    static int cnt = 0;
+
+    private int[] dfs(int root) {
+        int[] curVal = {Integer.MAX_VALUE, Integer.MAX_VALUE};
+
+        if (root.left != null) {
+            int[] nextVal = dfs(root.left);
+            curVal[0] = Math.max(nextVal[0], nextVal[1]);
+            curVal[1] = nextVal[0];
+        }
+        if (root.right != null) {
+            int[] nextVal = dfs(root.left);
+            curVal[0] = Math.max(curVal, Math.max(nextVal[0], nextVal[1]));
+            curVal[1] = Math.max(curVal[1], nextVal[0]);
+        }
+        return curVal;
+    }
+
+    public int rob(TreeNode root) {
+        if (root == null) 
+            return 0;
+        int[] num = dfs(root);
+        return Math.max(num[0], num[1]);
+    }
+}
