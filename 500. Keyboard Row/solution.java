@@ -12,8 +12,11 @@ public class Solution {
             }
         }
 
+        
+        List<String> ans = new ArrayList<>();
         for (String word : words) {
             int idx = map.get(word.charAt(0));
+            boolean flag = true;
             for (int i = 1; i < word.length(); ++i) {
                 if (map.get(word.charAt(i)) != idx) {
                     flag = false;
@@ -21,6 +24,9 @@ public class Solution {
                 }
             }
             if (flag) {
-
+                ans.add(word);
+            }
+        }
+        return ans.toArray(new String[ans.size()]);
     }
 }
